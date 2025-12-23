@@ -1,4 +1,4 @@
-# G-Vision Sentinel
+# ESP/Wallhack Detection
 
 **Visual Anti-Cheat System for ESP/Wallhack Detection**
 
@@ -226,4 +226,3 @@ This project is developed for research and educational purposes.
 
 ---
 
-**Project:** G-Vision Sentinel v1.0.0
