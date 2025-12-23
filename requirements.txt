@@ -1,0 +1,16 @@
+# G-Vision Sentinel - Visual Anti-Cheat System
+# Core Dependencies
+
+# Deep Learning & Computer Vision
+ultralytics>=8.3.0          # YOLOv11 implementation
+opencv-python>=4.8.0        # Image/Video processing
+numpy>=1.24.0               # Numerical operations
+
+# Utilities
+tqdm>=4.66.0                # Progress bars
+pyyaml>=6.0                 # YAML configuration handling
+
+# Optional: For enhanced visualization
+# matplotlib>=3.7.0         # Plotting (uncomment if needed)
+# pillow>=10.0.0            # Image manipulation (uncomment if needed)
+

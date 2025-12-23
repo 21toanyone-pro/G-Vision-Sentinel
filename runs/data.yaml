@@ -1,0 +1,5 @@
+names:
+  0: esp_overlay
+path: C:\Users\LIM\Desktop\Project_GD\data\synthetic
+train: images/train
+val: images/val

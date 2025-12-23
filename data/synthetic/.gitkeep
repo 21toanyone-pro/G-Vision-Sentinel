@@ -1,0 +1,7 @@
+# Generated synthetic training data will be stored here
+# Structure:
+#   images/train/  - Training images
+#   images/val/    - Validation images  
+#   labels/train/  - Training labels (YOLO format)
+#   labels/val/    - Validation labels (YOLO format)
+
