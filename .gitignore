@@ -50,13 +50,12 @@ data/synthetic/labels/
 *.engine
 
 # Training outputs (large)
-runs/esp_detector_*/
 runs/detect/*.mp4
 
 # Keep sample images for documentation
 !runs/detect/*.jpg
-!runs/esp_detector_20251223_112005/*.jpg
-!runs/esp_detector_20251223_112005/*.png
+!runs/esp_detector_*/*.jpg
+!runs/esp_detector_*/*.png
 
 # OS
 .DS_Store
