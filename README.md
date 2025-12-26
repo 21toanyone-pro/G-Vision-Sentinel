@@ -47,7 +47,7 @@ Four models were trained and evaluated on the same dataset with focus on **False
 
 ### Performance Summary
 
-![Model Comparison](docs/model_comparison.png)
+![Model Comparison](https://raw.githubusercontent.com/wiki/21toanyone-pro/ESP-Wallhack_Detection/model_comparison.png)
 
 ### Benchmark Results
 
@@ -100,11 +100,7 @@ Project_GD/
 │       ├── images/val/
 │       ├── labels/train/
 │       └── labels/val/
-├── docs/
-│   ├── MODEL_COMPARISON.md     # Detailed model analysis
-│   ├── TECHNICAL_DOCUMENTATION.md
-│   ├── AI_ML_BEST_PRACTICES.md
-│   └── README_KR.md            # Korean documentation
+├── docs/                        # Additional documentation (see Wiki for detailed docs)
 ├── runs/
 │   ├── yolov8n_esp/            # YOLOv8n training results
 │   ├── yolov10n_esp/           # YOLOv10n training results
@@ -213,10 +209,11 @@ python -m src.inference --video "data/raw/test.mp4" --output "runs/detect/result
 
 ## Documentation
 
-- [Model Comparison Analysis](docs/MODEL_COMPARISON.md)
-- [Technical Documentation](docs/TECHNICAL_DOCUMENTATION.md)
-- [AI/ML Best Practices](docs/AI_ML_BEST_PRACTICES.md)
-- [Korean Documentation](docs/README_KR.md)
+Detailed documentation is available in the [Wiki](https://github.com/21toanyone-pro/ESP-Wallhack_Detection/wiki):
+
+- [Technical Documentation](https://github.com/21toanyone-pro/ESP-Wallhack_Detection/wiki/Technical-Documentation) - Complete technical guide
+- [Model Comparison](https://github.com/21toanyone-pro/ESP-Wallhack_Detection/wiki/Model-Comparison) - Detailed model analysis and benchmarks
+- [AI/ML Best Practices](https://github.com/21toanyone-pro/ESP-Wallhack_Detection/wiki/AI-ML-Best-Practices) - Development guidelines and patterns
 
 ---
 
