@@ -65,3 +65,9 @@ Thumbs.db
 *.log
 logs/
 
+# Documentation (moved to GitHub Wiki)
+docs/TECHNICAL_DOCUMENTATION.md
+docs/MODEL_COMPARISON.md
+docs/AI_ML_BEST_PRACTICES.md
+docs/README_KR.md
+
